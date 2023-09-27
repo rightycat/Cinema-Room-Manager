@@ -1,4 +1,4 @@
-package cinema;
+package cinema.CinemaRoomManager;
 
 import java.util.Scanner;
 
